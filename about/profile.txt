@@ -1,3 +1,4 @@
 author
 new information
 изменено в вебе
+email: mail@my_mail.com
